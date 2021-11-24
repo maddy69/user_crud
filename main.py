@@ -16,7 +16,7 @@ import random
 from bs4 import BeautifulSoup as soup
 import pandas as pd
 
-site = "https://www.ajio.com/c/830303008"  # make sure rows = 500 and p = 1 ex - https://www.myntra.com/amp/men-tshirts?rows=500&p=1
+site = "https://www.myntra.com/women-shrugs"  # make sure rows = 500 and p = 1 ex - https://www.myntra.com/amp/men-tshirts?rows=500&p=1
 # https://www.myntra.com/amp/nehru-jackets?rows=500&p=1,https://www.myntra.com/amp/helmet?rows=500&p=1
 
 hdr1 = {
